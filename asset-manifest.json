@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-kavitha/static/css/main.2f753705.css",
+    "main.js": "/Redux-kavitha/static/js/main.f36e6b19.js",
+    "index.html": "/Redux-kavitha/index.html",
+    "main.2f753705.css.map": "/Redux-kavitha/static/css/main.2f753705.css.map",
+    "main.f36e6b19.js.map": "/Redux-kavitha/static/js/main.f36e6b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f753705.css",
+    "static/js/main.f36e6b19.js"
+  ]
+}
